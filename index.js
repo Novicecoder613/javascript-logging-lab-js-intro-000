@@ -1,5 +1,1 @@
-test/index-test.js
-console.error("HALP")
-console.log("Help")
-console.log("HALP")
-console.console.log("Help")
+console.error("help me")
